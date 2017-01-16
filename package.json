@@ -45,7 +45,7 @@
     "webpack-dev-server": "^1.6.6"
   },
   "peerDependencies": {
-    "react": "15.0.x"
+    "react": "15.x"
   },
   "dependencies": {
     "can-use-dom": "0.1.0",
