@@ -2,7 +2,7 @@
   "name": "react-router",
   "version": "0.13.5",
   "description": "A complete routing library for React.js",
-  "main": "modules",
+  "main": "build/lib",
   "repository": {
     "type": "git",
     "url": "https://github.com/rackt/react-router.git"
@@ -38,19 +38,19 @@
     "marked": "0.3.3",
     "mocha": "^2.0.1",
     "pygmentize-bundled": "^2.3.0",
-    "react": "0.14.x",
+    "react": "^15.0.0",
     "rf-changelog": "^0.4.0",
     "rx": "2.3.18",
     "webpack": "^1.4.13",
     "webpack-dev-server": "^1.6.6"
   },
   "peerDependencies": {
-    "react": "0.13.x||0.14.x"
+    "react": "15.0.x"
   },
   "dependencies": {
     "can-use-dom": "0.1.0",
     "invariant": "^2.0.0",
-    "object-assign": "^2.0.0",
+    "object-assign": "^2.1.1",
     "qs": "2.4.1"
   },
   "tags": [
